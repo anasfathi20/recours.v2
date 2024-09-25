@@ -17,7 +17,7 @@ import lombok.Setter;
 @Getter
 @Data
 @Entity
-@Table(name="P_TYPE_SITUATION ")
+@Table(name="P_TYPE_SITUATION")
 public class SituationType {
 
     @Id

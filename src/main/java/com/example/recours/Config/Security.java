@@ -1,3 +1,4 @@
+package com.example.recours.Config;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;

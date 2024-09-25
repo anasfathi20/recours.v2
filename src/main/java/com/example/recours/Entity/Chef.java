@@ -23,6 +23,5 @@ public class Chef {
     @Id
     @GeneratedValue(strategy = GenerationType.AUTO)
     private long ID ;
-
     private long IDCS;
 }

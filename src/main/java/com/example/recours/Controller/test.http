@@ -1,0 +1,6 @@
+# curl -X GET "http://localhost:8080/api/secured-endpoint" -H "User-ID: 12345"
+GET http://localhost:8080/api/secured-endpoint
+User-ID: 25310976
+
+###
+

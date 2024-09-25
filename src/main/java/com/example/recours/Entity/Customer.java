@@ -17,15 +17,10 @@ import lombok.Setter;
 @Getter
 @Data
 @Entity
-@Table(name="D_CHEF_MENAGE_AID")
 public class Customer {
-
     @Id
     @GeneratedValue(strategy = GenerationType.AUTO)
     private long IDCS;
-
     private String Identifiant;
-
     private String MDP;
-
 }
